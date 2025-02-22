@@ -1,11 +1,11 @@
 # Getting to Know Me / Знакомимся:
-###ENG
+### ENG
 I mainly work with REST API, mostly in Python, and develop websites, including those using Flask. I can set up Linux servers, manage certificates, domains, subdomains, and work with SSH and RDP protocols. I also have solid networking skills. I actively use Docker.  
 
 I'm passionate about 3D modeling, including topology and animation for games. Currently, I'm learning React, function and UI testing, and practicing with jQuery. I have basic knowledge of mobile development.  
 
 I also compose music, mostly electronic.  
-###RU
+### RU
 Чаще работаю с rest API в основном python, сайтами в том числе на flask знаю основы unity<br>Умею настраивать сервера на linux у самого есть сервер на ubuntu, работать с сертификатами, доменами, поддоменами, протоколами SSH RDP, и могу неплохо настроить сеть.<br>Работаю с docker<br>Помимо программирования увлекаюсь 3D в том числе для игр, работаю с топологией анимацией<br>В данный момент изучаю React, пишу и изучаю тесты функций и интерфейса и практикуюсь с jquery<br>Знаю основы разработки мобильных приложений но пока так же только изучаю<br>Пишу музыку чаще электронную
 
 ## Programming languages I aim to develop and grow in: / Языки программирования в которых планирую развиваться и реализовываться
