@@ -1,20 +1,24 @@
 # Getting to Know Me / Знакомимся:
 ### ENG
-I mainly work with REST API, mostly in Python, and develop websites, including those using Flask. I can set up Linux servers, manage certificates, domains, subdomains, and work with SSH and RDP protocols. I also have solid networking skills. I actively use Docker.  
-
-I'm passionate about 3D modeling, including topology and animation for games. Currently, I'm learning React, function and UI testing, and practicing with jQuery. I have basic knowledge of mobile development.  
-
-I also compose music, mostly electronic.  
+Currently working with Arduino.
+I know the principles of OOP and have studied design patterns. I have worked with REST API, mainly in Python, and with server applications, including Flask. I know the basics of Unity.
+I can set up servers on Linux—I have my own Ubuntu server—work with certificates, domains, subdomains, and protocols like SSH and RDP. I also understand the basic principles of configuring local networks.
+I work with Docker.
+Besides programming, I am passionate about 3D, including for games, and work with topology and animation.
+Currently, I am studying electromechanics, have written and studied function and interface tests, and practiced with jQuery.
+I know the basics of mobile app development but am still learning.
+Also I write music sometimes.
 ### RU
-Чаще работаю с rest API в основном python, сайтами в том числе на flask знаю основы unity<br>Умею настраивать сервера на linux у самого есть сервер на ubuntu, работать с сертификатами, доменами, поддоменами, протоколами SSH RDP, и могу неплохо настроить сеть.<br>Работаю с docker<br>Помимо программирования увлекаюсь 3D в том числе для игр, работаю с топологией анимацией<br>В данный момент изучаю React, пишу и изучаю тесты функций и интерфейса и практикуюсь с jquery<br>Знаю основы разработки мобильных приложений но пока так же только изучаю<br>Пишу музыку чаще электронную
+В данный момент работаю с Arduino.<br>Знаю принципы ООП изучал паттерны проектирования. Работал с rest API в основном на python, серверными приложениями в том числе на flask знаю основы unity<br>Умею настраивать сервера на linux у самого есть сервер на ubuntu, работать с сертификатами, доменами, поддоменами, протоколами SSH RDP, и знаю основные принципы настройки локальных сетей.<br>Работаю с docker<br>Помимо программирования увлекаюсь 3D в том числе для игр, работаю с топологией, анимацией<br>В данный момент изучаю электромеханику, писал и изучал тесты функций и интерфейса и практиковался с jquery<br>Знаю основы разработки мобильных приложений но пока так же только изучаю<br>Пишу музыку.
 
 ## Programming languages I aim to develop and grow in: / Языки программирования в которых планирую развиваться и реализовываться
 - C#  
+- C++  (Mostly Arduino)  
 - Python  
 - Java  
-- JavaScript (including HTML & CSS)  
+- JavaScript  
 
-By nature, I’m calm—though a bit tired—but full of energy :) / Сам по себе спокойный<br>Немного уставший но с кучей энергии :)
+By nature, I’m calm—though a bit tired—but :) / Сам по себе спокойный<br>Немного уставший :)
 
 ## 🌐 Social Networks / Соцсети:  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@redabyq) [![Telegram](https://img.shields.io/badge/Telegram%20-%20darkcyan?style=flat&logo=https%3A%2F%2Ftelegram.org%2Fimg%2Ffavicon-32x32.png)](https://t.me/redabyq)  
